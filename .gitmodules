@@ -1,0 +1,4 @@
+[submodule "src/lib"]
+	path = src/lib
+	url = https://gitee.com/dengwenbin1/dwb-lib_test.git
+	branch = master
